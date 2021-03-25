@@ -1,0 +1,90 @@
+,,,,,Dry Run of Report Card on State Election Procedures - send corrections to card@yrr.info,,,,,,,,,,
+,,Election Success & Transparency,,,,Absentee Voting,,,,,,Checking Election Results,,,
+State,State Grade,Do Votes Have a Paper Trail?,"Turnout, % of Voting-age Citizens",Nonpartisan or Bipartisan Redistricting?,Release Copies of Ballots for Public Checking?,Good Data Integrity for Mailing Ballots?,Vote by Mail with No Specific Reason?,Mail Application or Ballot to All?,Process Ballots before Election Day?,How Many Days after Election for Voters to Cure Signature Problems?,"2018 Absentee Ballots Counted, % of Received","Hand Tallies, to Check Computer Tallies?",Adequate Sample to Check Computer Tallies?,Number of Contests Checked ,Total Score
+,"Scoring System, bigger numbers are better","5-All hand-marked ballots except up to 15% for disabilities and overseas.
+3-Computers mark 15% or more of ballots (BMD)
+1-Over 15% lack any paper trail. ",1-5-Proportional to turnout,"5-Nonpartisan or Bipartisan commissions draw districts.
+4-Staff
+3-Partisan congressional districts, nonpartisan local
+1-Voting districts drawn by legislative majority.","5-Release copies of Ballots & Images to Public.
+3-Unknown. 
+2-No ballots, Images unknown.
+1-Neither ballots nor images. ","5-National Vote at Home Inst. finds good data integrity.
+1-Poor data integrity on mailing ballots","5-Yes
+4-In 2020, future unknown
+1-No","5-Either Application or Ballot
+4-Ballot in 2020
+3-County option or unknown
+1-Neither","5-Yes
+1-No","5-Week or more after election day.
+3-5-Two to seven days after election day.
+2-Cure by election day. 
+1-No cure allowed.","5-Counts 85%-99%, though experts would accept at most 90%.
+3-Counts 99% or more, far more lenient than expert signature reviewers.
+2-Counts 85% or less, many ballots rejected.
+1-No signature checks","5-Handcount.
+4-Re-run on different machines.
+3-Big omissions.
+2-Re-run on same machines.
+1-No checking.","5-Statistical sample.
+3-Some precincts or machines, but not statistically reliable for small contests.
+1-No audit or big omissions","5-All contests checked.
+2-3-One to six contests checked
+1-No checking.  ",21 to 58
+,,,,,,,,,,,,,,,
+Colorado ,A Colorado ,05%bmd,0.764,Staff,Yes after recount,Yes,Yes,Ballot,Yes,8,99.22,Hand count,Statistical,1, 	58.4 
+Rhode Island ,A Rhode Island ,00%bmd,0.657,No,Yes,Yes,Yes,Application,Yes,7,97.15,Hand count,Statistical,1, 	55.7 
+Ohio ,A Ohio ,68%bmd,0.674,Officials,Yes after recount,Yes,Yes,Application,Yes,7,98.78,Hand count,0.05,3, 	52.4 
+Utah ,A Utah ,11%bmd,0.692,Gov. names tiebreaker,No ballots,Yes,Yes,Ballot,Yes,6,99.1,Hand count,0.01,All, 	51.9 
+Washington ,A Washington ,01%bmd,0.757,Yes,No ballots or images,Yes,Yes,Ballot,Yes,21,98.46,Not required,0.01,1, 	51.3 
+Montana ,A Montana ,21%bmd,0.731,"Yes, 1 CD",Yes,Yes,Yes,Ballot at County Option,Yes,0,99.63,Hand count,0.05,4, 	50.5 
+California ,A California ,34%bmd,0.685,Yes,No ballots,Yes,Yes,Ballot in 2020,Yes,8,100.04,"Hand count, ex. ballots tallied after election day",0.01,All, 	49.2 
+Illinois ,A Illinois ,57%bmd,0.67,No,No ballots,Yes,Yes,Application,Yes,14,103.06,Different machine,0.05,All, 	48.9 
+Nevada ,A Nevada ,91%bmd,0.654,No,No known decision,Yes,Yes,Ballot in 2020,Yes,7,97.42,Machines or by hand ,0.02,All, 	48.7 
+Massachusetts ,A Massachusetts ,39%bmd,0.721,No,No known decision,Yes,2020,Application,Yes,0,94.23,Hand count,0.03,6, 	47.7 
+Oregon ,A Oregon ,00%bmd,0.755,No,No known decision,Yes,Yes,Ballot,Yes,14,99.1433384744074,"Hand count, except small precincts ",0.1,2, 	47.5 
+District of Columbia ,A District of Columbia ,68%bmd,0.641,"No, 1CD",No known decision,Yes,Yes,Ballot,Yes,No cure,96.45,Hand count,0.05,4, 	46.1 
+New Jersey ,A New Jersey ,"88%dre,00%bmd",0.753,Yes,No known decision,Yes,Yes,Ballot in 2020,Yes,15,96.7,No audit,,0, 	45.2 
+Hawaii ,A Hawaii ,51%bmd,0.575,Yes,No known decision,Yes,Yes,Ballot,Yes,5,5.62,"Hand count, except early&absentee ballots ",0.1,3, 	45.0 
+Georgia ,A Georgia ,60bmd,0.677,No,No ballots or images,Yes,Yes,Neither,Yes,3,90.19,Hand count,Statistical,1, 	44.4 
+Iowa ,A Iowa ,38%bmd,0.732,Yes,No known decision,Yes,Yes,Application,No,0,No signature checks,Hand count,?,1, 	43.9 
+Florida ,A Florida ,19%bmd,0.717,No,Yes,Yes,Yes,Neither,Yes,2,99.26,Different machine,0.02,1, 	43.7 
+New Mexico ,B New Mexico ,00%bmd,0.613,No,No ballots,Yes,Yes,App at County Option,Yes,No cure,No signature checks,Hand count,Statistical,4, 	42.6 
+Maryland ,B Maryland ,41%bmd,0.711,No,Yes after recount,No,Yes,Application,Yes,No cure,No signature checks,Different machine,1,All, 	42.6 
+Missouri ,B Missouri ,05%bmd,0.657,Staff,No known decision,Yes,2020,Neither,Yes,No cure,No signature checks,Hand count,0.05,5, 	42.5 
+Minnesota ,B Minnesota ,37%bmd,0.8,No,No ballots,Yes,Yes,Neither,Yes,0,No signature checks,Hand count,0.03,2, 	40.2 
+Arkansas ,B Arkansas ,15%bmd,0.561,Officials,No ballots,No,2020,Neither,Yes,5,98.7,Hand count,0.02,5, 	40.2 
+Michigan ,B Michigan ,32%bmd,0.739,Yes,Yes,Yes,Yes,Application,No,No cure,99.43,No audit,,0, 	40.0 
+Wisconsin ,B Wisconsin ,03%bmd,0.758,No,Yes,Yes,Yes,Application,No,No cure,No signature checks,"Hand count, except early&absentee ballots ",0.01,4, 	39.9 
+Connecticut ,B Connecticut ,47%bmd,0.715,No,No known decision,Yes,2020,Application,Yes,No cure,No signature checks,Machines or by hand ,0.05,3, 	39.0 
+North Carolina ,B North Carolina ,79%bmd,0.715,No,No ballots or images,No,Yes,Neither,Yes,8,No signature checks,Hand count,Statistical,1, 	38.6 
+New York ,B New York ,40%bmd,0.634,No,No ballots or images,No,2020,?,Yes,No cure,90.82,Different machine,0.03,All, 	38.3 
+Vermont ,B Vermont ,53%bmd,0.742,"No, 1CD",After 3 months,Yes,Yes,Ballot in 2020,No,No cure,No signature checks,Different machine,?,All, 	38.1 
+Virginia ,B Virginia ,39%bmd,0.73,No,No ballots,Yes,Yes,Neither,Yes,No cure,No signature checks,"Hand count, except early&absentee ballots ",Statistical,1, 	37.9 
+Pennsylvania ,B Pennsylvania ,31%bmd,0.71,Local only,No ballots or images,Yes,Yes,Neither,No,No cure,No signature checks,Hand count,0.02,All, 	37.6 
+West Virginia ,B West Virginia ,87%bmd,0.576,No,No ballots,Yes,2020,Neither,No,No cure,98.99,Hand count,0.03,All, 	37.4 
+Idaho ,B Idaho ,48%bmd,0.68,Yes,Yes after recount,No,Yes,Neither,Yes,No cure,95.64,No audit,,0, 	37.1 
+Kansas ,B Kansas ,60%bmd,0.659,No,Yes after certification,Yes,Yes,Neither,Yes,No cure,98.78,No audit,,0, 	36.7 
+Kentucky ,B Kentucky ,"57%dre,05%bmd",0.649,No,No ballots,No,2020,Neither,Yes,No cure,92.78,Hand count,0.03,All, 	36.6 
+Nebraska ,C Nebraska ,64%bmd,0.699,No,No ballots,No,Yes,Application,Yes,No cure,99.1,Not required,0.02,3, 	35.8 
+Alaska ,C Alaska ,53%bmd,0.688,"Officials, 1CD",No ballots or images,Yes,Yes,Neither,Yes,No cure,No signature checks,"Hand count, except small precincts ",0.05,All, 	35.2 
+Maine ,C Maine ,34%bmd,0.763,No,No ballots or images,Yes,Yes,Neither,Yes,No cure,98.86,No audit,,0, 	34.4 
+Texas ,C Texas ,"30%dre,60%bmd",0.604,No,After 22 months,Yes,No,Neither,Yes,No cure,98.92,Hand count,0.01,6, 	33.9 
+Arizona ,C Arizona ,80%bmd,0.659,Yes,No ballots or images,Yes,Yes,Neither,Yes,No cure,76.35,No audit,,0, 	33.7 
+Delaware ,C Delaware ,60bmd,0.707,"No, 1CD",No ballots,Yes,2020,Application,Yes,No cure,No signature checks,No audit,,0, 	33.5 
+Tennessee ,C Tennessee ,"86%dre,08%bmd",0.598,No,No known decision,No,No,Neither,Yes,No cure,97.84,Different machine,0.01,1, 	29.8 
+South Dakota ,C South Dakota ,76%bmd,0.66,"No, 1CD",Yes,No,Yes,Neither,Yes,No cure,36.71,No audit,,0, 	29.8 
+South Carolina ,C South Carolina ,60%bmd,0.645,No,Yes,Yes,2020,Neither,No,No cure,No signature checks,No audit,,0, 	27.5 
+Louisiana ,C Louisiana ,"96%dre,00%bmd",0.646,No,Yes,Yes,No,Neither,No,No cure,94.09,No audit,,0, 	26.5 
+Oklahoma ,C Oklahoma ,00%bmd,0.55,No,No ballots,No,Yes,Neither,Yes,No cure,No signature checks,No audit,,0, 	26.0 
+Alabama ,C Alabama ,42%bmd,0.631,No,No known decision,Yes,2020,Neither,No,No cure,No signature checks,No audit,,0, 	25.3 
+Indiana ,C Indiana ,"53%dre,10%bmd",0.614,No,No ballots,No,No,Neither,No,No cure,98.4,Not required,0.05,All, 	25.0 
+Wyoming ,C Wyoming ,34%bmd,0.646,"No, 1CD",Yes,No,Yes,Neither,No,No cure,No signature checks,No audit,,0, 	24.5 
+North Dakota,C North Dakota,30%bmd,0.645,"No, 1CD",No ballots,No,Yes,Neither,No,No cure,99.41,No audit,,0, 	23.5 
+Mississippi ,C Mississippi ,"85%dre,06%bmd",0.602,No,Yes after canvass,No,2020,Neither,No,No cure,28.07,No audit,,0, 	21.8 
+New Hampshire ,C New Hampshire ,50%bmd,0.755,No,No ballots or images,No,2020,Neither,No,No cure,No signature checks,No audit,,0, 	21.3 
+,,,,,,,,,,,,,,,
+,Sources:,https://www.eac.gov/sites/default/files/eac_assets/1/6/2018_EAVS_Report.pdf,http://www.electproject.org/2020g,https://en.wikipedia.org/wiki/Redistricting_commission,https://commons.wikimedia.org/wiki/File:Ballot-foia.png,www.voteathome.org/policy-star-rankings,https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx,https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx,https://www.ncsl.org/research/elections-and-campaigns/absentee-and-mail-voting-policies-in-effect-for-the-2020-election.aspx,https://www.ncsl.org/research/elections-and-campaigns/vopp-table-15-states-that-permit-voters-to-correct-signature-discrepancies.aspx,https://www.eac.gov/sites/default/files/eac_assets/1/6/2018_EAVS_Report.pdf,http://www.votewell.net/audits.html,,http://www.votewell.net/audits.html,
+,,https://verifiedvoting.org/verifier/,,,https://www.rcfp.org/open-government-sections/i-election-records/,,,,,,https://www.nytimes.com/interactive/2020/10/07/upshot/mail-voting-ballots-signature-matching.html,https://verifiedvoting.org/auditlaws/,,https://verifiedvoting.org/auditlaws/,
+,,,,,https://web.archive.org/web/20130217200102/http://www.nass.org/index.php?option=com_docman&task=doc_download&gid=95,,,,,,,,,,
+,"Sources: Election Assistance Commission, Verified Voting, Reporters' Committee for Freedom of the Press, National Council of Secretaries of State, National Conference of State Legislators, National Vote at Home Institute",,,,,,,,,,,,,,
