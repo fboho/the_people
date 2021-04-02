@@ -136,8 +136,8 @@ am4core.ready(function() {
     polygonSeries.heatRules.push({
         property: "fill",
         target: polygonSeries.mapPolygons.template,
-        min: chart.colors.getIndex(1).brighten(1),
-        max: chart.colors.getIndex(1).brighten(-0.3)
+        min: am4core.color(#f8961e),
+        max: am4core.color(#70e000)
     });
 
     // Make map load polygon data (state shapes and names) from GeoJSON
